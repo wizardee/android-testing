@@ -1,4 +1,4 @@
-Android testing samples
+Android testing samples with wizardee
 ===================================
 
 A collection of samples demonstrating different frameworks and techniques for automated testing.
